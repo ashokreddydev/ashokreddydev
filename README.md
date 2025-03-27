@@ -53,9 +53,9 @@ I am a **Full Stack Developer** with over **7 years of experience**, including *
 
 ## How to Reach Me
 
-- **GitHub**: [@ashokreddydev](https://github.com/ashokreddydev)
+- **GitHub**: [ashokreddydev](https://github.com/ashokreddydev)
 - **LinkedIn**: [Ashok Reddy](https://www.linkedin.com/in/ashok-reddy-penamalli-703337b3/)
-- **Email**: ashokcse505@gmail.com.com
+- **Email**: ashokcse505@gmail.com
 
 ## License
 
