@@ -57,6 +57,11 @@ I am a **Full Stack Developer** with over **7 years of experience**, including *
 - **LinkedIn**: [Ashok Reddy](https://www.linkedin.com/in/ashok-reddy-penamalli-703337b3/)
 - **Email**: ashokcse505@gmail.com
 
+- ## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashok%20Reddy%20Penamalli-blue?logo=linkedin)](https://in.linkedin.com/in/ashok-reddy-penamalli-703337b3)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
